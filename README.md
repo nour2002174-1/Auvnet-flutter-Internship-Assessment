@@ -1,4 +1,4 @@
-# auvnet
+# Auvnet-flutter-Internship-Assessment
 
 A new Flutter project.
 
